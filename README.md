@@ -1,5 +1,13 @@
 # vue-cardapio
 
+## vue cardapio Front-End
+
+![imagemcardapio](https://github.com/Noriuki/vue-cardapio/blob/master/vue-cardapio-thumbnail.png)
+
+## Admin Page
+
+![imagemcardapio](https://github.com/Noriuki/vue-cardapio/blob/master/vue-cardapio2.png)
+
 ## Project setup
 ```
 npm install
@@ -14,11 +22,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
