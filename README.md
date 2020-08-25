@@ -1,10 +1,9 @@
 # vue-cardapio
 
-## vue cardapio Front-End
+## snapshot
 
 ![imagemcardapio](https://github.com/Noriuki/vue-cardapio/blob/master/vue-cardapio-thumbnail.png)
 
-## Admin Page
 
 ![imagemcardapio](https://github.com/Noriuki/vue-cardapio/blob/master/vue-cardapio2.png)
 
