@@ -1,6 +1,6 @@
 # vue-cardapio
 
-## snapshot
+## demo
 
 ![imagemcardapio](https://github.com/Noriuki/vue-cardapio/blob/master/vue-cardapio-thumbnail.png)
 ##
