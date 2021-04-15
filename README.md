@@ -1,9 +1,13 @@
-# vue-cardapio
-Feito com o propósito de aprendizado.
+# menu-front
+> client for menu application made with VueJS V2
 
-Consuming Api => https://github.com/Noriuki/cardapioApi
+topics covered:\
+:white_check_mark: [VueJS](https://vuejs.org/)\
+:white_check_mark: [Vuex](https://vuex.vuejs.org/)\
+:white_check_mark: [vuetify](https://vuetifyjs.com/)\
+:white_check_mark: [vue-router](https://router.vuejs.org/)
 
-## Project setup
+## :wrench: Development setup
 ```
 npm install
 ```
